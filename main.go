@@ -78,7 +78,7 @@ func main() {
 		return
 	}
 
-  fmt.Println("OK, namespace should be removed")
+	fmt.Println("OK, namespace should be removed")
 }
 
 func homeDir() string {

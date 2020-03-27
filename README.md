@@ -10,7 +10,7 @@ Via some manual API calls, this can be fixed, see for instance:
 - https://stackoverflow.com/questions/52369247/namespace-stuck-as-terminating-how-do-i-remove-it
 - https://medium.com/@clouddev.guru/how-to-fix-kubernetes-namespace-deleting-stuck-in-terminating-state-5ed75792647e
 
-This simple tools automates this step with a single command.
+This simple tool automates this step with a single command.
 
 
 ## Usage
